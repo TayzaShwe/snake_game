@@ -1,0 +1,36 @@
+
+html,
+body{
+    height:100%
+}
+
+/*
+.main-screen{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    margin: auto auto;
+    vertical-align: middle;
+}
+*/
+
+.main-screen{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    margin: auto auto;
+    vertical-align: middle;
+}
+
+.game-title{
+    text-align: center;
+    vertical-align: center;
+}
+
+.play-button{
+    display: block;
+    margin: auto auto;
+    padding: 10px 20px;
+}
